@@ -29,15 +29,15 @@ Click here to view the live website: https://kamiliafr.netlify.app/
 
  ## 🚧 Status
 
- ✅ Frontend complete 
+ ✅ Frontend complete.
 
- ✅ No Backend needed
+ ✅ No Backend needed.
 
  ✅ Currently hosted on netlify.
 
  
 
- 🕓 More breakdowns on the way stay tuned
+ 🕓 More breakdowns on the way stay tuned.
 
  ## 👨‍💻 About the Developer
  
