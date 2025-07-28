@@ -24,6 +24,9 @@ Click here to view the live website: https://kamiliafr.netlify.app/
  - Bootstrap
  - JavaScript
 
+✨ This repo includes only the HTML, CSS, and JavaScript. Images are excluded to keep the repo lightweight.
+
+
  ## 🚧 Status
 
  ✅ Frontend complete 
@@ -31,6 +34,8 @@ Click here to view the live website: https://kamiliafr.netlify.app/
  ✅ No Backend needed
 
  ✅ Currently hosted on netlify.
+
+ 
 
  🕓 More breakdowns on the way stay tuned
 
